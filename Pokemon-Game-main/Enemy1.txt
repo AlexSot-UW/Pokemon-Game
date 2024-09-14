@@ -1,0 +1,8 @@
+Turtwig
+Grass
+35
+240
+240
+RazorLeaf
+55
+95

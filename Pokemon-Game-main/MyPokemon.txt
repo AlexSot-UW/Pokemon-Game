@@ -1,0 +1,8 @@
+Growlithe
+Fire
+60
+50
+120
+Slam
+40
+75

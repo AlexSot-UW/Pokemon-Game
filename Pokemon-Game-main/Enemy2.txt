@@ -1,0 +1,8 @@
+Drizzile
+Water
+90
+100
+100
+Whirlpool
+35
+50

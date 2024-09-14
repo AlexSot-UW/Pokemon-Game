@@ -1,0 +1,8 @@
+name
+type
+speed
+curHealth
+maxHealth
+moveName
+moveDamage
+moveAccuracy
